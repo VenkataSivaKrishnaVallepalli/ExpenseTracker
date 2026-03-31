@@ -12,7 +12,6 @@
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-![screencapture](https://github.com/user-attachments/assets/9627f4e1-9199-4246-a994-ac289fb8e11c)
 
 ### Overview
 
